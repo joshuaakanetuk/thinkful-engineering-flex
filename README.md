@@ -1,2 +1,2 @@
-# thinkful-engineering-flex
- thinkful-engineering-flex
+# Thinkful Engineering Flex Curriculum 
+Notes, Commentary 
