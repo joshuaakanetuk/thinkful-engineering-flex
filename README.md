@@ -1,2 +1,2 @@
 # Thinkful Engineering Flex Curriculum 
-Notes, Commentary 
+Notes, Commentary, and Summary of curriculum. 
